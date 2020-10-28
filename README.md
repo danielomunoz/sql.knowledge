@@ -1,11 +1,11 @@
 # SQL Knowledge
 
 * Comenzaremos instalando PostgreSQL y ValentinaDB, que es un gestor de bases de datos.
-* Aquí tenemos un pequeño esquema de los comandos de sql:
+* Aquí tenemos un pequeño esquema de los comandos de sql:    
 ![Esquema](./images/1.PNG)
 
 ## Comandos básicos
-### Simple Select statement
+### Simple Select statement  
 ![Simple Select statement](./images/2.PNG)
 
 ### Obtener todos los elementos de una tabla
